@@ -1,0 +1,46 @@
+{
+    "persons": [
+        {
+            "id": 1,
+            "name": "Mario",
+            "surname": "Rossi",
+            "age": 25,
+            "courses": [
+                "HTML", "CSS", "JavaScript"
+            ],
+            "address": {
+                "street": "via Roma",
+                "civic": 20,
+                "city": "Roma"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Aldo",
+            "surname": "Bianchi",
+            "age": 28,
+            "courses": [
+                "PHP", "Python"
+            ],
+            "address": {
+                "street": "via Roma",
+                "civic": 20,
+                "city": "Roma"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Giovanna",
+            "surname": "Verdi",
+            "age": 23,
+            "courses": [
+                "Web Design"
+            ],
+            "address": {
+                "street": "via Roma",
+                "civic": 20,
+                "city": "Roma"
+            }
+        }
+    ]
+}
